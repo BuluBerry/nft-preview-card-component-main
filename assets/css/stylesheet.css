@@ -1,0 +1,91 @@
+html{
+    background-color: hsl(217, 54%, 11%);
+}
+
+.container-main{
+    background-color: hsl(216, 50%, 16%);
+    width: 350px;
+    height: 596px;  
+}
+
+.image img{
+    width: 300px;
+    height: 302px;
+}
+
+.item h1{
+    font-family: "Outfit";
+    font-size: 1.375rem;
+    font-weight: 600;
+    color: white;
+}
+
+.item p{
+    font-family: "Outfit";
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: hsl(215, 51%, 70%);
+}
+
+.itemextra{
+    display: flex;
+}
+
+.price{
+    display: flex;
+}
+
+.price img{
+    width: 11px;
+    height: 18px;
+}
+
+.price h2{
+    font-family: "Outfit";
+    font-size: 1rem;
+    font-weight: 600;
+    color: hsl(178, 100%, 50%);
+}
+
+.timeleft{
+    display: flex;
+}
+
+.timeleft img{
+    width: 16px;
+    height: 16px;
+}
+
+.timeleft p{
+    font-family: "Outfit";
+    font-size: 1rem;
+    font-weight: 400;
+    color: hsl(215, 51%, 70%);
+}
+
+hr{
+    width: 302px;
+    color: hsl(215, 32%, 27%);
+}
+
+.createdby{
+    display: flex;
+}
+
+.createdby img{
+    width: 33px;
+    height: 33px;
+}
+
+.createdby p{
+    font-family: "Outfit";
+    font-size: 1rem;
+    font-weight: 400;
+    color: hsl(215, 51%, 70%);
+    padding-right: 5px;
+}
+
+#authorname{
+    color: white;
+}
+
